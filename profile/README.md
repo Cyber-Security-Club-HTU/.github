@@ -35,8 +35,9 @@ We aim to create a platform for individuals interested in cybersecurity to come 
 ## Connect with Us
 
 **Email: csc@htu.edu.jo**
-
+**Socials:**
 [Linkedin](https://www.linkedin.com/company/csc-htu/)
+
 [Instagram](https://www.instagram.com/csc_htu/)
 
 **Feel free to reach out to us if you have any questions, suggestions, or collaboration opportunities.**
