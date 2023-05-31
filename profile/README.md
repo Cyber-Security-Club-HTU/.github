@@ -49,6 +49,5 @@ We welcome anyone interested in cybersecurity to join our club and contribute to
 **We look forward to your contributions and participation in our cybersecurity community!**
 
 ```
-Note: The Cyber Security Club at HTU is not responsible for any misuse of the information provided in this repository.
-Use the resources and tools responsibly and adhere to ethical guidelines while engaging in cybersecurity activities.
+Note: The Cyber Security Club at HTU is not responsible for any misuse of the information provided in our repositories.
 ```
