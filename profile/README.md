@@ -1,1 +1,1 @@
-# Welcome to CSC 😊 
+# Welcome 😊 
