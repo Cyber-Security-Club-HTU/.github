@@ -32,7 +32,7 @@ We aim to create a platform for individuals interested in cybersecurity to come 
 
 - Attend Events: Stay updated with our upcoming events and workshops related to cybersecurity. Attend these events to expand your knowledge, network with professionals, and enhance your skills.
 
-##Connect with Us
+## Connect with Us
 
 **Email: csc@htu.edu.jo**
 
