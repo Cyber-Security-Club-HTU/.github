@@ -10,7 +10,9 @@ We aim to create a platform for individuals interested in cybersecurity to come 
 
 ## Repository Structure 😊
 
-**The repository is structured into the following directories:**
+```
+The repository is structured into the following directories:
+```
 
 - Projects: This directory contains subdirectories for various cybersecurity projects undertaken by our club. Each project subdirectory includes project documentation, source code, and any additional resources related to the project.
 
@@ -22,7 +24,9 @@ We aim to create a platform for individuals interested in cybersecurity to come 
 
 ## Get Involved
 
-**We welcome anyone interested in cybersecurity to join our club and contribute to our initiatives. Here's how you can get involved:**
+```
+We welcome anyone interested in cybersecurity to join our club and contribute to our initiatives. Here's how you can get involved:
+```
 
 - Join the Club: If you're a student or professional at Al Hussein Technical University, we encourage you to become a member of our club. Attend our meetings, participate in discussions, and collaborate on projects.
 
@@ -43,6 +47,7 @@ We aim to create a platform for individuals interested in cybersecurity to come 
 **Feel free to reach out to us if you have any questions, suggestions, or collaboration opportunities.**
 
 **We look forward to your contributions and participation in our cybersecurity community!**
+
 ```
 Note: The Cyber Security Club at Hussein Technical University is not responsible for any misuse of the information or tools provided in this repository.
 Use the resources and tools responsibly and adhere to ethical guidelines while engaging in cybersecurity activities.
