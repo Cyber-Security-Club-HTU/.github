@@ -14,9 +14,7 @@ We aim to create a platform for individuals interested in cybersecurity to come 
 The repository is structured into the following directories:
 ```
 
-- **Projects:** This directory contains subdirectories for various cybersecurity projects undertaken by our club. Each project subdirectory includes project documentation, source code, and any additional resources related to the project.
-
-- **Resources:** This directory includes useful resources such as cybersecurity articles, tutorials, tools, and learning materials contributed by our club members. Feel free to explore and make use of these resources for your own learning and research.
+- **Resources:** Here, you will find useful resources such as cybersecurity articles, tutorials, tools, and learning materials contributed by our club members. Feel free to explore and make use of these resources for your own learning and research.
 
 - **Events:** Here, you'll find information about past and upcoming events organized by our club. We share event details, slides, and other related materials for reference.
 
