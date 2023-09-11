@@ -1,6 +1,6 @@
 # Cyber Security Club at Al Hussein Technical University 😎
 
-**Welcome to the official GitHub repository of the Cyber Security Club at Hussein Technical University! 
+**Welcome to the official GitHub organization of the Cyber Security Club at Hussein Technical University! 
 This repository serves as a central hub for our club's projects, resources, and collaborative work related to cybersecurity.**
 
 ## About Us 🙂
